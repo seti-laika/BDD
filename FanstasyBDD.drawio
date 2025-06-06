@@ -259,7 +259,7 @@
         <mxCell id="egmGkbFtTlkXpPbHuYCC-80" value="+ butin : TEXT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="egmGkbFtTlkXpPbHuYCC-78">
           <mxGeometry y="70" width="190" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="egmGkbFtTlkXpPbHuYCC-82" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.981;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="egmGkbFtTlkXpPbHuYCC-78" target="egmGkbFtTlkXpPbHuYCC-36">
+        <mxCell id="egmGkbFtTlkXpPbHuYCC-82" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=-0.052;entryY=0.31;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="egmGkbFtTlkXpPbHuYCC-78" target="egmGkbFtTlkXpPbHuYCC-86">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1210" y="534.41" as="sourcePoint" />
             <mxPoint x="1140" y="540" as="targetPoint" />
